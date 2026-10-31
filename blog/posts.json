@@ -40,5 +40,19 @@
     "google_quality_passed": false,
     "eeat_score": 91,
     "seo_aeo_score": 8.07
+  },
+  {
+    "keyword": "Bedding and bath towels complete guide: fabrics, thread count and care",
+    "title": "Bedding and Bath Towels Complete Guide: Fabrics, Care",
+    "description": "Bedding and bath towels complete guide: fabrics, thread count and care tips to help US shoppers compare sheets, pillowcases and towels with confidence.",
+    "file": "bedding-and-bath-towels-complete-guide-fabrics-thread-count-and-care.html",
+    "date": "2026-10-31",
+    "archetype": "authority_guide",
+    "archetype_confidence": 0.88,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 8.81
   }
 ]
