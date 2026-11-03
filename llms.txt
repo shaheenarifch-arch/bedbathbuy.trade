@@ -1,17 +1,18 @@
 # BedBathBuy
 
-> Independent bedding and bath shopping guide featuring cooling bamboo and cotton bedding collections, substantial buying guides and practical comparison advice.
+> Independent bedding and bath shopping guide with cooling bamboo and cotton bedding collections, buying guides and practical comparison advice.
 
 This site publishes buying guides and product recommendations. Some links are affiliate links; see the affiliate disclosure page.
 
 ## Pages
 - [Bath and towel buying center](https://bedbathbuy.trade/bath-towels.html): Practical guidance for choosing bath towels, hand towels, washcloths and coordinated sets.
 - [Bedding collections](https://bedbathbuy.trade/bedding.html): Compare cooling bamboo and cotton bedding by material, size, set composition and practical use.
+- [Bedsure Black Friday bedding deals 2026](https://bedbathbuy.trade/black-friday-bedding-deals.html): Top 3 Bedsure sheet picks with starting prices, a comparison table, the tiered promo codes listed on BedBathBuy and a short FAQ.
 - [BedBathBuy blog](https://bedbathbuy.trade/blog.html): Editorial articles about bedding materials, bath textiles, care routines and comfortable rooms.
 - [Frequently asked questions](https://bedbathbuy.trade/faq.html): Answers about BedBathBuy, affiliate links, pricing, checkout, returns and editorial selection.
 - [How to Choose Bed Sheets](https://bedbathbuy.trade/guide-how-to-choose-bed-sheets.html): Learn how to compare bed-sheet materials, weave, thread count, pocket depth, temperature, care, merchant policies and complete sheet sets.
 - [Buying guides](https://bedbathbuy.trade/guides.html): Detailed, non-thin resources for bedding, towels, care and merchant comparison.
-- [BedBathBuy](https://bedbathbuy.trade/): Independent bedding and bath shopping guide featuring cooling bamboo and cotton bedding collections, substantial buying guides and practical comparison advice.
+- [BedBathBuy](https://bedbathbuy.trade/): Independent bedding and bath shopping guide with cooling bamboo and cotton bedding collections, buying guides and practical comparison advice.
 - [Editorial methodology](https://bedbathbuy.trade/methodology.html): How BedBathBuy organizes merchant-feed products and publishes independent buying guidance.
 - [Featured partners](https://bedbathbuy.trade/partners.html): BedBathBuy currently surfaces supplied affiliate-feed products from Bedsure Home and Gokotta Lifestyle.
 
@@ -22,3 +23,12 @@ This site publishes buying guides and product recommendations. Some links are af
 - [Contact BedBathBuy](https://bedbathbuy.trade/contact.html): Contact BedBathBuy for editorial corrections, website questions and partnership inquiries.
 - [Privacy policy](https://bedbathbuy.trade/privacy.html): How this lightweight static website approaches privacy and third-party affiliate destinations.
 - [Terms of use](https://bedbathbuy.trade/terms.html): Terms governing use of BedBathBuy editorial content and affiliate links.
+
+## Blog
+- [Bedding and Bath Towels Complete Guide: Fabrics, Care](https://bedbathbuy.trade/blog/bedding-and-bath-towels-complete-guide-fabrics-thread-count-and-care.html): Bedding and bath towels complete guide: fabrics, thread count and care tips to help US shoppers compare sheets, pillowcases and towels with confidence.
+- [Bedding Set Guide: What's Included and How to Choose](https://bedbathbuy.trade/blog/bedding-set-guide.html): What is a bedding set? Learn what comes in one, how sheet, comforter and duvet sets differ, and how to pick the right size, fabric and piece count.
+- [How to Choose the Best Bamboo Pillowcases for Night Sweats](https://bedbathbuy.trade/blog/best-bamboo-pillowcases-for-night-sweats.html): Struggling with hot, damp nights? This guide explains how to choose bamboo pillowcases for night sweats, covering weave, fit, care, and buying mistakes.
+- [How to Choose Best Cooling Pillowcases for Hot Sleepers](https://bedbathbuy.trade/blog/best-cooling-pillowcases-for-hot-sleepers.html): Learn how to choose the best cooling pillowcases for hot sleepers, from fabric type to weave, with a buying guide, decision table, and common mistakes to avoid.
+- [Guides & buying advice](https://bedbathbuy.trade/blog/): Independent buying guides from BedBathBuy about bedding, bath towels and home comfort: who each option suits and what to check before you buy.
+- [Most Comfortable Pillowcases for Neck Pain Relief](https://bedbathbuy.trade/blog/most-comfortable-pillowcases-for-neck-pain-relief.html): Find the most comfortable pillowcases for neck pain relief with this guide covering fabrics, fit, pillow pairing, mistakes to avoid, and a decision framework.
+- [Shaheen Arif](https://bedbathbuy.trade/author/shaheen-arif/): Shaheen Arif is the founder of getservices.ai and the editor of BedBathBuy, publishing buying guides about bedding, bath towels and home comfort.
