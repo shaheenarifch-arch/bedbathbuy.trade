@@ -54,5 +54,19 @@
     "google_quality_passed": true,
     "eeat_score": 100,
     "seo_aeo_score": 8.81
+  },
+  {
+    "keyword": "cooling gel pillows versus memory foam pillows",
+    "title": "Cooling Gel Pillows Versus Memory Foam Pillows Guide",
+    "description": "Compare cooling gel pillows versus memory foam pillows for temperature control, support, firmness and care before choosing your next pillow.",
+    "file": "cooling-gel-pillows-versus-memory-foam-pillows.html",
+    "date": "2026-11-08",
+    "archetype": "comparison",
+    "archetype_confidence": 0.87,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 9.56
   }
 ]
