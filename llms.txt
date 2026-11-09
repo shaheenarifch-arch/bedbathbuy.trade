@@ -5,20 +5,20 @@
 This site publishes buying guides and product recommendations. Some links are affiliate links; see the affiliate disclosure page.
 
 ## Pages
-- [Bath and towel buying center](https://bedbathbuy.trade/bath-towels.html): Practical guidance for choosing bath towels, hand towels, washcloths and coordinated sets.
-- [Bedding collections](https://bedbathbuy.trade/bedding.html): Compare cooling bamboo and cotton bedding by material, size, set composition and practical use.
-- [BedBathBuy blog](https://bedbathbuy.trade/blog.html): Editorial articles about bedding materials, bath textiles, care routines and comfortable rooms.
-- [Frequently asked questions](https://bedbathbuy.trade/faq.html): Answers about BedBathBuy, affiliate links, pricing, checkout, returns and editorial selection.
-- [How to Choose Bed Sheets](https://bedbathbuy.trade/guide-how-to-choose-bed-sheets.html): Learn how to compare bed-sheet materials, weave, thread count, pocket depth, temperature, care, merchant policies and complete sheet sets.
-- [Buying guides](https://bedbathbuy.trade/guides.html): Detailed, non-thin resources for bedding, towels, care and merchant comparison.
+- [Bath and towel buying center](https://bedbathbuy.trade/bath-towels): Practical guidance for choosing bath towels, hand towels, washcloths and coordinated sets.
+- [Bedding collections](https://bedbathbuy.trade/bedding): Compare cooling bamboo and cotton bedding by material, size, set composition and practical use.
+- [BedBathBuy blog](https://bedbathbuy.trade/blog): Editorial articles about bedding materials, bath textiles, care routines and comfortable rooms.
+- [Frequently asked questions](https://bedbathbuy.trade/faq): Answers about BedBathBuy, affiliate links, pricing, checkout, returns and editorial selection.
+- [How to Choose Bed Sheets](https://bedbathbuy.trade/guide-how-to-choose-bed-sheets): Learn how to compare bed-sheet materials, weave, thread count, pocket depth, temperature, care, merchant policies and complete sheet sets.
+- [Buying guides](https://bedbathbuy.trade/guides): Detailed, non-thin resources for bedding, towels, care and merchant comparison.
 - [BedBathBuy](https://bedbathbuy.trade/): Independent bedding and bath shopping guide featuring cooling bamboo and cotton bedding collections, substantial buying guides and practical comparison advice.
-- [Editorial methodology](https://bedbathbuy.trade/methodology.html): How BedBathBuy organizes merchant-feed products and publishes independent buying guidance.
-- [Featured partners](https://bedbathbuy.trade/partners.html): BedBathBuy currently surfaces supplied affiliate-feed products from Bedsure Home and Gokotta Lifestyle.
+- [Editorial methodology](https://bedbathbuy.trade/methodology): How BedBathBuy organizes merchant-feed products and publishes independent buying guidance.
+- [Featured partners](https://bedbathbuy.trade/partners): BedBathBuy currently surfaces supplied affiliate-feed products from Bedsure Home and Gokotta Lifestyle.
 
 ## Policies
-- [About BedBathBuy](https://bedbathbuy.trade/about.html): Independent bedding, bath and home-comfort discovery designed to reduce shopping noise.
-- [Accessibility statement](https://bedbathbuy.trade/accessibility.html): BedBathBuy is designed for keyboard access, readable contrast, semantic structure and mobile use.
-- [Affiliate disclosure](https://bedbathbuy.trade/affiliate-disclosure.html): A plain-language explanation of sponsored links and potential partner compensation.
-- [Contact BedBathBuy](https://bedbathbuy.trade/contact.html): Contact BedBathBuy for editorial corrections, website questions and partnership inquiries.
-- [Privacy policy](https://bedbathbuy.trade/privacy.html): How this lightweight static website approaches privacy and third-party affiliate destinations.
-- [Terms of use](https://bedbathbuy.trade/terms.html): Terms governing use of BedBathBuy editorial content and affiliate links.
+- [About BedBathBuy](https://bedbathbuy.trade/about): Independent bedding, bath and home-comfort discovery designed to reduce shopping noise.
+- [Accessibility statement](https://bedbathbuy.trade/accessibility): BedBathBuy is designed for keyboard access, readable contrast, semantic structure and mobile use.
+- [Affiliate disclosure](https://bedbathbuy.trade/affiliate-disclosure): A plain-language explanation of sponsored links and potential partner compensation.
+- [Contact BedBathBuy](https://bedbathbuy.trade/contact): Contact BedBathBuy for editorial corrections, website questions and partnership inquiries.
+- [Privacy policy](https://bedbathbuy.trade/privacy): How this lightweight static website approaches privacy and third-party affiliate destinations.
+- [Terms of use](https://bedbathbuy.trade/terms): Terms governing use of BedBathBuy editorial content and affiliate links.
