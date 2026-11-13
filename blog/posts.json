@@ -68,5 +68,19 @@
     "google_quality_passed": true,
     "eeat_score": 100,
     "seo_aeo_score": 9.56
+  },
+  {
+    "keyword": "best bath towels",
+    "title": "Best Bath Towels: Organic Cotton and Custom Picks",
+    "description": "Compare the best bath towels from organic cotton terry sets to custom photo towels, with buying tips, comparisons, and FAQs for smarter shopping.",
+    "file": "best-bath-towels.html",
+    "date": "2026-11-13",
+    "archetype": "best_products",
+    "archetype_confidence": 0.97,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 8.82
   }
 ]
